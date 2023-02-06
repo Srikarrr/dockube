@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1-nginx
-          image: k8cluster.azurecr.io/srikarrrkubdoc
+          image: k8cluster.azurecr.io/srikarrrdockube
           ports:
             - containerPort: 80
 ---
